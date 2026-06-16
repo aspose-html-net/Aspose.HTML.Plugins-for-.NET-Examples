@@ -1,0 +1,15 @@
+{
+  "package": "html/html-to-pdf-converter",
+  "sprint": "nonlowcode-publication-W8",
+  "date": "2026-06-16",
+  "nuget_package": "Aspose.HTML 24.12.0",
+  "canonical_url": "https://products.aspose.net/html/html-to-pdf-converter/",
+  "api_used": "Converter.ConvertHTML, Directory.CreateDirectory, Converter.ConvertHTML",
+  "restore": "PASS",
+  "build": "PASS",
+  "run": "UNTESTED",
+  "output_files": [],
+  "output_validation_status": "BUILD_VERIFIED",
+  "proven_wave": "W8",
+  "pclc_eligible": true
+}

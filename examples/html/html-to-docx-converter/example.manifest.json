@@ -1,0 +1,31 @@
+{
+  "scenario_id": "html-html-to-docx-converter",
+  "package_id": "Aspose.HTML",
+  "package_version": "24.12.0",
+  "target_framework": "net8.0",
+  "namespace_source": "NON_LOWCODE_PLUGIN",
+  "public_repo_kind": "PLUGIN_EXAMPLES",
+  "folder_namespace_segment": "",
+  "discovery_method": "PLUGIN_PAGE_PROBE",
+  "canonical_url": "https://products.aspose.net/html/html-to-docx-converter/",
+  "claimed_symbols": [
+    "Converter.ConvertHTML",
+    "Directory.CreateDirectory",
+    "Converter.ConvertHTML"
+  ],
+  "status": "generated",
+  "input_strategy": "programmatic",
+  "input_files": [],
+  "input_format": "",
+  "output_format": ".docx",
+  "operation_kind": "convert",
+  "expected_output_extension": ".docx",
+  "contract_input_format": "",
+  "contract_output_format": ".docx",
+  "contract_operation_kind": "convert",
+  "contract_output_kind": "file",
+  "contract_output_cardinality": "single",
+  "contract_id": "html/html-to-docx-converter",
+  "proven_wave": "W9",
+  "pclc_eligible": true
+}
