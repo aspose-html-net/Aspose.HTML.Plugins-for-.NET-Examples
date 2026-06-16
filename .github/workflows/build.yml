@@ -12,6 +12,9 @@ jobs:
     strategy:
       matrix:
         example:
+          - examples/html/html-to-pdf-converter
+          - examples/html/html-to-docx-converter
+          - examples/html/html-to-image-converter
           - examples/html/convert-html-to-xps
           - examples/html/convert-html-to-markdown
           - examples/html/merge-html
