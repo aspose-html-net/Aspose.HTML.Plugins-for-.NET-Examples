@@ -1,0 +1,30 @@
+{
+  "scenario_id": "html-merge-html",
+  "package_id": "Aspose.HTML",
+  "package_version": "24.12.0",
+  "target_framework": "net8.0",
+  "namespace_source": "NON_LOWCODE_PLUGIN",
+  "public_repo_kind": "PLUGIN_EXAMPLES",
+  "folder_namespace_segment": "",
+  "discovery_method": "PLUGIN_PAGE_PROBE",
+  "canonical_url": "https://products.aspose.net/html/merge-html/",
+  "claimed_symbols": [
+    "Directory.CreateDirectory",
+    "Converter.ConvertHTML"
+  ],
+  "status": "generated",
+  "input_strategy": "programmatic",
+  "input_files": [],
+  "input_format": "",
+  "output_format": ".pdf",
+  "operation_kind": "convert",
+  "expected_output_extension": ".pdf",
+  "contract_input_format": "",
+  "contract_output_format": ".pdf",
+  "contract_operation_kind": "convert",
+  "contract_output_kind": "file",
+  "contract_output_cardinality": "single",
+  "contract_id": "html/merge-html",
+  "proven_wave": "W16",
+  "pclc_eligible": true
+}

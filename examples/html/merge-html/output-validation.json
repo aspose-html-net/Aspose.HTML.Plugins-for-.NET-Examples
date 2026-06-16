@@ -1,0 +1,15 @@
+{
+  "package": "html/merge-html",
+  "sprint": "nonlowcode-publication-W16",
+  "date": "2026-06-16",
+  "nuget_package": "Aspose.HTML 24.12.0",
+  "canonical_url": "https://products.aspose.net/html/merge-html/",
+  "api_used": "Directory.CreateDirectory, Converter.ConvertHTML",
+  "restore": "PASS",
+  "build": "PASS",
+  "run": "UNTESTED",
+  "output_files": [],
+  "output_validation_status": "BUILD_VERIFIED",
+  "proven_wave": "W16",
+  "pclc_eligible": true
+}
